@@ -1,0 +1,4 @@
+
+class NotCorrectMessage(Exception):
+
+    pass
