@@ -1,0 +1,2 @@
+# zlotakoza
+Dochody - bisinees logic
