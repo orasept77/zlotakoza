@@ -7,8 +7,8 @@ from categories import Categories
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '1632822509:AAG_qRuLro27FinBs5-ugOpuR7RP9AY8UEQ'
-ACCESS_ID = 573332887
+API_TOKEN = ''
+ACCESS_ID = 
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
