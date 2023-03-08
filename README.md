@@ -10,27 +10,6 @@ Add daily income by specifying the income and category
 View daily and monthly income statistics
 View a list of recent income records
 Delete income records
-Installation
-To install Złota Koza Bot, follow these steps:
-
-1. Clone the repository by running the command below in your terminal:
-bash```
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo```
-
-2. Install the required dependencies by running:
-bash```
-pip install -r requirements.txt```
-
-3. Set up a Telegram bot and obtain an API token for your bot by following the official Telegram documentation.
-
-4. Add the API token to the main.py file:
-python```
-API_TOKEN = 'your-bot-api-token'```
-
-5. Set up a database by running the db.py script:
-python```
-python db.py```
 
 Usage
 To start the bot, simply run the main.py script:
